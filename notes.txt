@@ -1,0 +1,9 @@
+A repository is a large folder that contains all your code. 
+
+1. Go to the profile page.
+2. Go to the repositories tab.
+3. Click on create new repository green button.
+4. Add a project name
+5. Add a project description
+6. Click on the green button at the bottom of the page - create repository
+7. Click on commit new file at the bottom of the page
