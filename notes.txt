@@ -7,3 +7,25 @@ A repository is a large folder that contains all your code.
 5. Add a project description
 6. Click on the green button at the bottom of the page - create repository
 7. Click on commit new file at the bottom of the page
+
+
+Project management work flow
+1. Click on the projects button
+2. Click on projects classic
+3. Click on new project button
+4. Add a project name
+5. Add a project description
+6. Click project template - choose the basic kanban
+7. Click on create project
+8. Create a column called notes
+9. Make the notes column the 1st column
+10. Create all the different parts of the site as seperate boxes in the notes column
+11. Click on the 3 dots, click on convert to issue, click button create issue
+12. Click on go to issue for full detials.
+
+What is an issue ?
+An issue is a page that contains a list of tasks that need to be completed.
+You can assign people to an issue.
+You can also tag an issue with a tag that describes what you are working on.
+You can have comments about a specific task inside the issue page.
+You can manage all the communications about specific tasks inside the issue page.
